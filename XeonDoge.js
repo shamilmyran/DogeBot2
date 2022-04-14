@@ -1,6 +1,6 @@
-//-----(Doge Bot by Xeon Bot Inc.)-----\\
-//-----(Youtube Channel: Xeon)-----\\
-//-----(Whatsapp number: +916909137213)-----\\
+//-----(MR Bot by Munavir Bot Inc.)-----\\
+//-----(Instagram: _munavir_.)-----\\
+//-----(Whatsapp number: +918590822912)-----\\
 //-----(Wanna reupload??? Can, but give proper credit)----\\
 
 const
@@ -107,7 +107,7 @@ const dare = JSON.parse(fs.readFileSync('./database/dare.json'))
 ky_ttt = []
 tttawal= ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣","7️⃣","8️⃣","9️⃣"]
 cmhit = []
-fake = "Doge Bot";
+fake = "ᴍᴜɴᴀᴠɪʀ";
 autorespon = settings.AutoRespon
 playmusic = settings.AutoMusic
 antidelete = settings.AntiDelete
@@ -642,7 +642,7 @@ options
 
 const daftar1 = `*Hi ${pushname}* 👋\n*Please Verify First*`
 const daftar2 = '_Click the button below to verify_'
-const daftar3 = [{buttonId: `verify`,buttonText: {displayText: `🐶VERIFY🐶`,},type: 1,},]
+const daftar3 = [{buttonId: `verify`,buttonText: {displayText: `🌝VERIFY🌝`,},type: 1,},]
 
 const createSerial = (size) => {
 return crypto.randomBytes(size).toString('hex').slice(0, size)
@@ -716,7 +716,7 @@ if (!mek.key.remoteJid.endsWith('@g.us') && offline){
             if (isAfk(mek.key.remoteJid)) return
             addafk(mek.key.remoteJid)
 			heheh = ms(Date.now() - waktuafk)
-		  sendButMessage(from, `Hi ${pushname}, Sorry it seems at this time ${NamaOwner} is offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minute, ${heheh.seconds} Second\n\nPlease contact again after Online`, "*Doge Bot*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
+		  sendButMessage(from, `Hi ${pushname}, Sorry it seems at this time ${NamaOwner} is offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minute, ${heheh.seconds} Second\n\nPlease contact again after Online`, "*DogeBot*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
 			}
 		}
 		if (mek.key.remoteJid.endsWith('@g.us') && offline) {
@@ -1122,7 +1122,7 @@ if(isButton == 'igm'){
 reply('https://github.com/DGXeon')
 }
 if(isButton == 'ytm'){
-reply('https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A')
+reply('http://instagram.com/_munavir._')
 }
 
    const sotoy = [
@@ -1217,23 +1217,23 @@ tod = `┏━━━━━━━━━━━━━━━━━━━━
 ⬡ ${z}Owner Number : ${NomorOwner}${z}
 ┗━━━━━━━━━━━━━━━━━━`
 tod2 =`┏━━━❒ *MENU LIST*
-${z}🐶 ${prefix}soundmenu${z}
-${z}🐶 ${prefix}rentbot${z}
-${z}🐶 ${prefix}status${z}
-${z}🐶 ${prefix}intakemenu${z}
-${z}🐶 ${prefix}runtime${z}
-${z}🐶 ${prefix}makermenu${z}
-${z}🐶 ${prefix}ownermenu${z}
-${z}🐶 ${prefix}groupmenu${z}
-${z}🐶 ${prefix}othermenu${z}
-${z}🐶 ${prefix}downloadmenu${z}
-${z}🐶 ${prefix}funmenu${z}
-${z}🐶 ${prefix}nsfwmenu${z}
-${z}🐶 ${prefix}animemenu${z}
-    watch how you can install this bot in your whatsapp: https://youtu.be/zXvwqA8LvTw
+${z}😈 ${prefix}soundmenu${z}
+${z}😈 ${prefix}rentbot${z}
+${z}😈 ${prefix}status${z}
+${z}😈 ${prefix}intakemenu${z}
+${z}😈 ${prefix}runtime${z}
+${z}😈 ${prefix}makermenu${z}
+${z}😈 ${prefix}ownermenu${z}
+${z}😈 ${prefix}groupmenu${z}
+${z}😈 ${prefix}othermenu${z}
+${z}😈 ${prefix}downloadmenu${z}
+${z}😈 ${prefix}funmenu${z}
+${z}😈 ${prefix}nsfwmenu${z}
+${z}😈 ${prefix}animemenu${z}
+    
 ┗━━━━━━━━━━━━━━━━━`
 buttons = [
-{buttonId:`scbot`, buttonText: {displayText: 'BOT SCRIPT🔖'}, type: 1},
+{buttonId:`scbot`, buttonText: {displayText: 'INSTAGRAM🔖'}, type: 1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER👤'}, type: 1}
 ]
 const menuu = {
@@ -1517,7 +1517,7 @@ stamtus = `❏ 「 \`\`\`FUN MENU\`\`\` 」
 🐶 ${prefix}can [text]
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT🔖'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM🔖'},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER👤'}, type: 1}
 ]
 const grup = {
@@ -1567,7 +1567,7 @@ stamtus = `❏ 「 \`\`\`GROUP MENU\`\`\` 」
 🐶 ${prefix}tagsomeone [number]
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM'},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const funyo = {
@@ -1612,7 +1612,7 @@ case 'listmenu':
  description: `_*Hi, please choose the menu*_`,
  sections: [
                      {
-                      "title": `Doge Bot`,
+                      "title": `MR Bot`,
  rows: [
                           {
                               "title": "SellBot",
@@ -1692,7 +1692,7 @@ stamtus = `❏ 「 \`\`\`18+ MENU\`\`\` 」
 🐶 ${prefix}trapnime
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM'},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const funn = {
@@ -1715,7 +1715,7 @@ stamtus = `❏ 「 \`\`\`18+ MENU\`\`\` 」
 🐶 ${prefix}wallml
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM'},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const animerandomx = {
@@ -1743,7 +1743,7 @@ stamtus =`❏ 「 \`\`\`SOUND MENU\`\`\` 」
 [ Total Sound 1-75 ]
 ────────────────────`
 buttons = [
-{buttonId:`sc`, buttonText: {displayText: 'BOT SCRIPT'}, type: 1},
+{buttonId:`sc`, buttonText: {displayText: 'INSTAGRAM'}, type: 1},
 {buttonId:`owner`,buttonText:{displayText: 'BOT OWNER'},type:1}
 ]
 const soundM = {
@@ -1818,7 +1818,7 @@ stamtus =`❏ 「 \`\`\`OWNER MENU\`\`\` 」
 🐶 ${prefix}nano [ filename ]
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM'},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const ownerM = {
@@ -1863,7 +1863,7 @@ stamtus =`❏ 「 \`\`\`DOWNLOAD MENU\`\`\` 」
 🐶 ${prefix}ss [ link ]
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM'},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const downloadM = {
@@ -1908,7 +1908,7 @@ _example: ${prefix}throne Xeon_
 🐶 ${prefix}splay 「 text 」
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM'},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const makerM = {
@@ -1954,7 +1954,7 @@ stamtus =`❏ 「 \`\`\`OTHER MENU\`\`\` 」
 🐶 ${prefix}vidsec [ reply video caption numbers ]
 ────────────────────`
 buttons = [
-{buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT'},type:1},
+{buttonId:`sc`,buttonText:{displayText: 'INSTAGRAM'},type:1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const otherM = {
@@ -3237,7 +3237,7 @@ donasi =`╭─────────────────
 │└─Contact owner, if u wish to donate──
 └──────────────────────────`
 buttons = [
-{buttonId:`sc`, buttonText: {displayText: 'BOT SCRIPT'}, type: 1},
+{buttonId:`sc`, buttonText: {displayText: 'INSTAGRAM'}, type: 1},
 {buttonId:`owner`, buttonText: {displayText: 'BOT OWNER'}, type: 1}
 ]
 const donatt = {
@@ -4808,7 +4808,7 @@ Wa Version: ${alpha.user.phone.wa_version}
 Os Version: ${alpha.user.phone.os_version}
 ⍟ ────────────────── ⍟`
 buttons = [
-{buttonId:`scbot`, buttonText: {displayText: 'BOT SCRIPT'}, type: 1},
+{buttonId:`scbot`, buttonText: {displayText: 'INSTAGRAM'}, type: 1},
 {buttonId:`owner`, buttonText:{displayText: 'BOT OWNER'},type:1},
 ]
 const stats = {
