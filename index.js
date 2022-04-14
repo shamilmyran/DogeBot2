@@ -143,7 +143,7 @@ const starts = async (dogexeon = new WAConnection()) => {
 	}), 'cyan'))
 	console.log(color('\n> YT CHANNEL: Xeon ','silver'))
 console.log(color('> GITHUB: DGXeon ','silver'))
-console.log(color('> WA NUMBER: +916909137213 ','silver'))
+console.log(color('> WA NUMBER: +918590822912 ','silver'))
 console.log(color('  Xeon Bot Inc. 2021','mediumseagreen'))
 	dogexeon.browserDescription = [ 'Subscribe Xeon', 'ubuntu', '3.0' ]
 
@@ -305,7 +305,7 @@ dogexeon.on('group-participants-update', async (anu) => {
 
 				teks = `🐶 *Hɪ* @${num.split('@')[0]}\n🐶 *Bɪᴏ* : *${thu.status}*\n🐶 *Mᴇᴍʙᴇʀs : ${memeg}*\n🐶 *Wᴇʟᴄᴏᴍᴇ Tᴏ ${mdata.subject}*\n🐶 *ᴅᴏɴᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ʀᴇᴀᴅ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ*`
 
-				sendButImage(anu.jid, teks, `𝐃𝐨𝐠𝐞 𝐁𝐨𝐭`, img,but = [{buttonId:`getdescgc`, 
+				sendButImage(anu.jid, teks, `MR bot`, img,but = [{buttonId:`getdescgc`, 
 
                buttonText:{displayText: 'WELCOME'},type:1}], options = {contextInfo: {mentionedJid: [num, htod]}})
 
